@@ -1,0 +1,24 @@
+Futbolcu,Cristiano Ronaldo,Al Nassr,95,92,90,98,100,Legend
+Futbolcu,Lionel Messi,Inter Miami,92,95,88,96,100,Captain
+Futbolcu,Kylian Mbappe,Real Madrid,94,85,96,95,100,Clutch Player
+Futbolcu,Erling Haaland,Man City,85,80,98,99,100,Finisher
+Futbolcu,Mauro Icardi,Galatasaray,92,88,94,90,100,Finisher
+Futbolcu,Edin Dzeko,Fenerbahce,88,85,90,88,100,Veteran
+Futbolcu,Vincent Aboubakar,Besiktas,85,82,88,92,100,Defender
+Futbolcu,Kevin De Bruyne,Man City,90,98,85,94,100,Captain
+Basketbolcu,Alperen Sengun,Houston Rockets,90,85,88,95,100,Clutch Player
+Basketbolcu,Stephen Curry,Golden State,99,94,92,90,100,Legend
+Basketbolcu,Lebron James,LA Lakers,92,96,90,98,100,Captain
+Basketbolcu,Kevin Durant,Phoenix Suns,96,92,90,92,100,Legend
+Basketbolcu,Cedi Osman,Panathinaikos,85,82,88,90,100,Defender
+Basketbolcu,Furkan Korkmaz,Monaco,88,84,82,88,100,Clutch Player
+Basketbolcu,Shane Larkin,Anadolu Efes,92,90,95,92,100,Finisher
+Basketbolcu,Kostas Sloukas,Panathinaikos,85,92,88,85,100,Veteran
+Voleybolcu,Melissa Vargas,Fenerbahce,99,95,98,95,100,Legend
+Voleybolcu,Eda Erdem,Fenerbahce,90,98,92,99,100,Captain
+Voleybolcu,Zehra Gunes,Vakifbank,85,99,90,98,100,Defender
+Voleybolcu,Tijana Boskovic,Eczacibasi,98,92,99,94,100,Finisher
+Voleybolcu,Ebrar Karakurt,Lokomotiv,95,90,96,92,100,Clutch Player
+Voleybolcu,Gizem Orge,Fenerbahce,80,85,75,99,100,Defender
+Voleybolcu,Hande Baladin,Eczacibasi,88,90,92,90,100,Veteran
+Voleybolcu,Gabriela Guimaraes,Imoco Conegliano,92,94,90,95,100,Captain
